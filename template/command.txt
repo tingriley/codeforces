@@ -1,0 +1,4 @@
+g++ -Wall -o A A.cpp
+g++ -Wall -o B B.cpp
+g++ -Wall -o C C.cpp
+g++ -Wall -o D D.cpp
