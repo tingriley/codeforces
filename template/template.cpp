@@ -1,10 +1,17 @@
-// 1738 B. Prefix Sum Addicts
 #include <bits/stdc++.h>
 using namespace std;
-
+void solve()
+{
+    cout << "YES\n";
+    cout << "NO\n";
+}
 int main()
 {
-    printf("ok\n");
+    int t;
+    cin >> t;
+    while(t--){
+        solve();
+    }
     return 0;
 }
 
